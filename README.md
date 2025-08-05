@@ -69,7 +69,7 @@ Tasks performed:
 - Appended Europe & North America datasets
 - Merged `Country Code.xlsx` with `Europe` table to add `Country Code`
 
-<img src=" Assignment - 3\Adventures Online Sales-3.png   " width="700"/>
+<img src="Assignment - 3\Adventures Online Sales-3.png  " width="700"/>
 ---
 
 ## 💼 Tools Used
