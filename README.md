@@ -6,17 +6,6 @@ This project showcases my hands-on data transformation and visualization work us
 
 ---
 
-## 🧠 Project Overview
-
-| Module        | Description                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| Assessment 1  | Sales report using AdventureWorks data                                      |
-| Assessment 3  | Shaping, combining, and transforming regional sales data                    |
-
-> ✅ Note: Module 2 was not included as part of this repository.
-
----
-
 ## 📂 Files Included
 
 📁 Assessment-1/
@@ -48,6 +37,7 @@ Here are the key visuals included in the report:
 <img src="Assignment - 1\Adventures Online Sales-1.png " width="700"/>
 
 ---
+## 🔍 Visualizations (Assessment-2)
 
 ### 📆 Sales by Calendar Quarter (with Color Coding)
 <img src="Assignment - 2\Adventures Online Sales-2.png  " width="700"/>
@@ -69,6 +59,7 @@ Tasks performed:
 - Appended Europe & North America datasets
 - Merged `Country Code.xlsx` with `Europe` table to add `Country Code`
 
+## 🔍 Visualizations (Assessment-3)
 <img src="Assignment - 3\Adventures Online Sales-3.png  " width="700"/>
 ---
 
