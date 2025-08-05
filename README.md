@@ -33,13 +33,12 @@ This project showcases my hands-on data transformation and visualization work us
 
 Here are the key visuals included in the report:
 
-### 📅 Sales by Day of the Week
 <img src="Assignment - 1\Adventures Online Sales-1.png " width="700"/>
 
 ---
 ## 🔍 Visualizations (Assessment-2)
 
-### 📆 Sales by Calendar Quarter (with Color Coding)
+
 <img src="Assignment - 2\Adventures Online Sales-2.png  " width="700"/>
 
 ---
